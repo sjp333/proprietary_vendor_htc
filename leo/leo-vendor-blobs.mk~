@@ -16,6 +16,7 @@
 PRODUCT_COPY_FILES += \
 	vendor/htc/leo/proprietary/lib/libcamera.so:obj/lib/libcamera.so
 
+
 PRODUCT_COPY_FILES += \
     vendor/htc/leo/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/htc/leo/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
